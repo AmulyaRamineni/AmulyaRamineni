@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lakshmi Amulya Ramineni  
 
- **Master’s Student in Computer Science** at Florida State University (Graduating Dec 2025)  
+ **Master’s graduate in Computer Science** at Florida State University 
  Passionate about **Cloud Computing, Databases, AI, and Software Development**  
  Currently exploring **AWS, Salesforce, and Advanced Java**  
  Based in Tallahassee, FL  
@@ -25,7 +25,7 @@
 ---
 
 ## � Experience
-- **Database Administrator Intern** @ Man 2 Web Pvt. Ltd.  
+- **Data Analyst** @ Man 2 Web Pvt. Ltd.  
   - Designed, hosted, and monitored logical & physical databases  
   - Optimized database performance and storage methods  
 
@@ -49,5 +49,5 @@
 ---
 
 ##  Connect with Me
--  Email: [LR23BA@fsu.edu](mailto:LR23BA@fsu.edu)  
+-  Email: [lakshmiamulyar@gmail.com](mailto:lakshmiamulyar@gmail.com)  
 -  [LinkedIn](https://www.linkedin.com/in/lakshmi-amulya-ramineni-b80b81191/)  
